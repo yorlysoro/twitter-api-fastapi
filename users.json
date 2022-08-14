@@ -1,1 +1,18 @@
-[{"user_id": "3fa85f64-5717-4562-b3fc-2c963f66afa6", "email": "yorlys@example.com", "first_name": "Yorlys", "last_name": "Oropeza", "birth_date": "1994-07-16", "password": "yorlyspass"}]
+[
+    {
+        "user_id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+        "email": "yorlys@example.com",
+        "first_name": "Yorlys",
+        "last_name": "Oropeza",
+        "birth_date": "1994-07-16",
+        "password": "yorlyspass"
+    },
+    {
+        "user_id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+        "email": "joseperez@example.com",
+        "first_name": "Jose",
+        "last_name": "Perez",
+        "birth_date": "2002-08-14",
+        "password": "josepass"
+    }
+]
